@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <Navbar />
-      {/* <Routing />
-      <Footer /> */}
+      <Routing />
+      <Footer />
     </>
   );
 }
